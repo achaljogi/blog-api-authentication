@@ -1,4 +1,4 @@
-# Blog API with Authentication
+# Blog API with Authentication System
 
 A RESTful Blog API built using FastAPI, MySQL, and SQLAlchemy.
 
